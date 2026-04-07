@@ -115,14 +115,14 @@ Dari implementasi di atas dapat disimpulkan bahwa:
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/username/maze-solver.git
-cd maze-solver
+git clone https://github.com/KaivalAmamiya/Tugas-Struktur-Data-Maze-Solver.git
+cd Tugas-Struktur-Data-Maze-Solver
 ```
 
 ### 2. Jalankan Program
 
 ```bash
-python maze_solver.py
+python Maze_Solver.py
 ```
 
 > Tidak perlu install library apapun — Tkinter sudah built-in di Python!

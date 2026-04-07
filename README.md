@@ -122,7 +122,7 @@ cd Tugas-Struktur-Data-Maze-Solver
 ### 2. Jalankan Program
 
 ```bash
-python Maze_Solver.py
+python Maze Solver.py
 ```
 
 > Tidak perlu install library apapun — Tkinter sudah built-in di Python!
